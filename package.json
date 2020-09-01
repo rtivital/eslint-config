@@ -1,0 +1,17 @@
+{
+  "name": "@rtivital/eslint-config",
+  "version": "1.0.0",
+  "description": "eslint and prettier configuration based on airbnb eslint config",
+  "main": ".eslintrc.js",
+  "repository": "https://github.com/rtivital/eslint-config",
+  "author": "Vitaly Rtishchev <rtivital@gmail.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "eslint": "^7.8.0",
+    "eslint-config-airbnb": "^18.2.0",
+    "eslint-plugin-import": "^2.22.0",
+    "eslint-plugin-jsx-a11y": "^6.3.1",
+    "eslint-plugin-react": "^7.20.6",
+    "eslint-plugin-react-hooks": "^4.1.0"
+  }
+}
