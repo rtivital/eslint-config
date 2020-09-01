@@ -1,6 +1,6 @@
 {
   "name": "@rtivital/eslint-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "eslint and prettier configuration based on airbnb eslint config",
   "main": ".eslintrc.js",
   "repository": "https://github.com/rtivital/eslint-config",
